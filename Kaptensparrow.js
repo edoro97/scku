@@ -114,6 +114,7 @@ _https://bit.ly/3BvzCFX_
 ▪️ ALL BANK & EWALLET, KECUALI KOMPAS,DANA
 ▪️ BEBAS BUY SPIN,KECUALI ALE & OWL
 ▪️ DILARANG SPACEMAN & CLASSIC SLOT
+
 `.trim()) //
 
 handler.customPrefix = /^(.kaptensparrow|kaptensparrow)$/i
