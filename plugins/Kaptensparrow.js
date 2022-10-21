@@ -41,6 +41,14 @@ OLD
 
 
 
+*🎰 GOBER168*
+_https://bit.ly/Link_Gober168_
+30K + 20K TO X5
+
+*DILARANG SAMA DATA REK*
+
+
+
 *🎰 TURBO188*
 _http://bit.ly/Link_Turbo188_
 NEW
@@ -76,16 +84,6 @@ _http://bitly.ws/vucZ_
 
 
 
-*🎰 OWL77*
-_https://rebrand.ly/642nj10_
-20K + 20K TO X3
-MAX WD 300K
-
-*BEBAS DATA REK*
-*DILARANG BUY SPIN*
-
-
-
 *🎰 ALE999*
 _http://bit.ly/Link_Ale999_
 50K + 50K TO X5
@@ -109,11 +107,11 @@ _https://bit.ly/3BvzCFX_
 
 
 
-▪️ BEBAS IP,KECUALI KOMPAS
-▪️ ALL SLOT,KECUALI ALE
-▪️ ALL BANK & EWALLET, KECUALI KOMPAS,DANA
-▪️ BEBAS BUY SPIN,KECUALI ALE & OWL
-▪️ DILARANG SPACEMAN & CLASSIC SLOT
+*▪️ BEBAS IP,KECUALI KOMPAS & GOBER*
+*▪️ ALL SLOT,KECUALI ALE*
+*▪️ ALL BANK & EWALLET, KECUALI KOMPAS HANYA DANA*
+*▪️ BEBAS BUY SPIN,KECUALI ALE*
+*▪️ DILARANG SPACEMAN & CLASSIC SLOT*
 
 `.trim()) //
 
