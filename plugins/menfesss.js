@@ -55,10 +55,10 @@ handler.help = ['menfess <nomor|pesan>']
 handler.tags = ['main']
 handler.command = /^(menfess|chat)$/i
 handler.owner = true
-handler.mods = false
-handler.premium = false
+handler.mods = true
+handler.premium = true
 handler.group = false
-handler.private = false
+handler.private = true
 
 handler.admin = false
 handler.botAdmin = false
